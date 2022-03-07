@@ -1,0 +1,20 @@
+Pizza Order
+===========
+Crust:
+  Regular
+Toppings:
+  Sausage
+  Extra Cheese
+   Peppers
+  Onions
+  Mushrooms
+  Olives
+Sides:
+    2 Bread Sticks
+    2 Buffalo Wings
+Deliver To:
+   Laz Austin
+   1110 Old Mayhew Rd. Apt. 22
+   Starkville, MS. 39759
+
+***END OF ORDER***
